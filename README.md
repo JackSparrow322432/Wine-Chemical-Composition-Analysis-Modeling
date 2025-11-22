@@ -17,9 +17,7 @@ Final insights and conclusions
 
 Проект выполнен в образовательных целях и демонстрирует навыки Data Science, статистики и визуализации данных.
 
- Project Structure
-bash
-Копировать код
+Project Structure
 project_wine/
 │
 ├── data/                 # Dataset (raw/clean)
@@ -30,6 +28,7 @@ project_wine/
 │
 ├── README.md             # Project description (this file)
 └── requirements.txt      # Python dependencies
+
 Technologies
 Проект построен с использованием следующих библиотек и инструментов:
 
